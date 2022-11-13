@@ -1,0 +1,14 @@
+.footer__column-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: white;
+  opacity: 1;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+  transition: 3s;
+}
+.footer__column-link:nth-of-type(3n) {
+  margin-bottom: 0;
+}

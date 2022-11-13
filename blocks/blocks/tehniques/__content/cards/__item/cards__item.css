@@ -1,0 +1,9 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+}
+
+.cards__item:nth-of-type(2n) {
+  margin-right: 100px;
+  margin-left: 100px;
+}
