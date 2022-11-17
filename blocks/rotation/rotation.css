@@ -7,6 +7,7 @@
   }
 }
 
-.kaufman__triangle_rotation {
-  animation: rotation linear 60s;
+.rotation {
+  animation: rotation 20s linear infinite;
 }
+
